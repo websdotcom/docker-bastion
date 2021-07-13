@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.14.0
 
 LABEL maintainer="Mark <mark.binlab@gmail.com>"
 
